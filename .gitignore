@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+bighorn2024_entrants.xlsx
+.DS_Store
 
 # C extensions
 *.so
